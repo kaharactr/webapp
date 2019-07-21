@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="438345e2-1fbf-4dd4-90aa-a950c78451d9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webapp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webapp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webapp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="webapp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/KaharactrWebApp.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/kotlin/Kaharactr.kt" />
+        <option value="$PROJECT_DIR$/settings.gradle.kts" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/KaharactrWebApp.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="KobaltLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Kata/Kotlin/ProjectSample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Kotlin/kobalt-kotlin-kotlintest" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="132" />
+    <option name="width" value="1080" />
+    <option name="height" value="659" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle.kts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KaharactrWebApp">
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kaharactr" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webapp.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Kaharactr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaharactrWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="webapp.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.hervedarritchon.kaharacter.webapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fr.hervedarritchon.kaharacter.webapp.KaharactrWebApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.KaharactrWebApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Devoxx2015/devoxxfr2015/build" value="1428476892000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Formations/Coursera/Principles of Reactive Programming/Week1/Assignment/quickcheck" value="1429107702000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Formations/Coursera/Principles of Reactive Programming/Week3/Exercises/Solution/CourseraCodeSamplesReactiveProgramming" value="1430935802000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Formations/LightBend/Fast Track Akka Java/solutions/021_Fsm" value="1458141926000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Formations/LightBend/Fast Track Akka Scala/solutions/011_Faulty_guest" value="1456341456000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Formations/LightBend/Fast Track Akka Scala/solutions/013_Faulty_waiter" value="1456341456000" />
+        <entry key="$PROJECT_DIR$/../../../../../Documentation/Scala/Scala.js/workbench-example-app" value="2899152248000" />
+        <entry key="$PROJECT_DIR$/../../../../Conference/DevoxxFr2016/Hand'sOnKafka/hands_on_kafka" value="1461091798000" />
+        <entry key="$PROJECT_DIR$/../../../../Devoxx2015/Spark-HandOnLab/build" value="1428482410000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/FunctionalProgramming/assignments/week4-patmat" value="1448201809000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/FunctionalProgrammingAssignment/week1-recfun" value="1442485054000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/FunctionalProgrammingAssignment/week1-recfun - copie" value="1442485054000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/FunctionalProgrammingAssignment/week3-objsets" value="1443193012000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Koans/dmarsh-scalakoansexercises-ebbe18119d70" value="1447752907000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Scala/Fast Track Akka/fast-track-akka-scala" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Scala/Xebia/scalatrain" value="1456346096000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/BerlinClock/scala-berlin-clock-kata" value="1432320074000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/FizzBuzz/fizz-buzz-scala-kata" value="1431957914000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/FizzBuzz/minimal-scala" value="1432123234000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/FizzBuzz/play-scala-seed" value="1432067449000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/FizzBuzz/scala-fizz-buzz-kata" value="1432274274000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/PrimeFactors/scala-prime-factors-kata" value="1433746079000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/scala-seed/scala-kata-seed" value="1432152621000" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Scala/test-play-for-seed" value="1431762027000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Microservices/Lagom/lagom-java-chirper" value="1487321548000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Fork/spectre-engine" value="1473082007000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Lightbend/activator-akka-java-spring" value="1459757472000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Lightbend/akka-http-rest" value="1462881476000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Lightbend/akka-java-spring" value="1458557538000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Lightbend/hello-akka" value="1462352858000" />
+        <entry key="$PROJECT_DIR$/../../../../Orange/Spectre/Lightbend/hello-slick" value="1462885116000" />
+        <entry key="$PROJECT_DIR$/../../../Dojo/xtreme-dojo-server" value="1458979900000" />
+        <entry key="$PROJECT_DIR$/../../../Ecolobambins/AfterSchoolCare/play-reactivemongo-polymer" value="1428256095000" />
+        <entry key="$PROJECT_DIR$/../../../PlayerCharacterPortFolio/Reactive/play-scala" value="1427643988000" />
+        <entry key="$PROJECT_DIR$/../../../Scala/Akka/Akka-Router-Example" value="1450611138000" />
+        <entry key="$PROJECT_DIR$/../../../Scala/PlayFramework/janus-toolbox" value="1449501931000" />
+        <entry key="$PROJECT_DIR$/../../../Scala/PlayFramework/swapi-offliner" value="1450512911000" />
+        <entry key="$PROJECT_DIR$/../../../Scala/StarWars-PortFolio-App/swapi-offliner" value="1450902423000" />
+        <entry key="$PROJECT_DIR$/../../../Tutorials/PlayFramework/PlayScalaBook/Chapter1/products" value="1426937652000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/Akka/SupervisionTutorial" value="1472714059000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/Psug/TDD/tdd-handson" value="1449598227000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/rpn" value="1449847278000" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/testadm-hd" value="1450792128000" />
+        <entry key="$PROJECT_DIR$/../../../../Test/allure-scalatest-example" value="1453631257000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/FormerSessions/FunctionalProgramming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week2/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week3/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week4/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Formations/Coursera/Session-T1-2018/week6/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Kata/Kotlin/Templates/gradle-kotlin.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../PlayerCharacterPortFolio/numenor-great-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../PlayerCharacterPortFolio/user-store-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Scala/ScalaJs/slimetrail.scalajs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Tests/testS" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="438345e2-1fbf-4dd4-90aa-a950c78451d9" name="Default Changelist" comment="" />
+      <created>1563633023009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563633023009</updated>
+      <workItem from="1563633024264" duration="1530000" />
+      <workItem from="1563642530941" duration="25000" />
+      <workItem from="1563693203953" duration="892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2447000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18526466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.45800525" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39947438" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3285151" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Graph Database Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Docker" order="12" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="OpenShift Origin" order="15" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Database Changes" order="18" />
+      <window_info anchor="bottom" id="Version Control" order="19" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="SvgViewer" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="sbt" order="6" />
+      <window_info anchor="right" id="Kobalt" order="7" />
+      <window_info anchor="right" id="Graph Database" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" weight="0.32904148" />
+      <window_info anchor="right" id="SciView" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="13" />
+      <window_info anchor="right" id="Bean Validation" order="14" show_stripe_button="false" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/KaharactrWebApp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
